@@ -1,0 +1,5 @@
+QWidget#mainView
+{
+    background: white url(:/res/background.jpg);
+    background-repeat: repeat-xy;
+}

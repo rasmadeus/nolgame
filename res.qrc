@@ -1,0 +1,9 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+   <file>res/background.jpg</file>
+   <file>res/keylock.png</file>
+   <file>res/pawl_closed.png</file>
+   <file>res/pawl_opened.png</file>
+   <file>res/styles.qss</file>
+</qresource>
+</RCC>
