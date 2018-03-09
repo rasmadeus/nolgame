@@ -9,9 +9,6 @@ class About : public QDialog
 
 public:
     explicit About(QWidget* parent);
-
-private:
-    void addCredit(const QString& res, const QString& author, QFormLayout* layout);
 };
 
 #endif // ABOUT_H
